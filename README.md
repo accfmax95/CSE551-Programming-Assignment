@@ -1,5 +1,5 @@
 
-### Maxwell Berry / 1219830248
+### accfmax95
 
 #### Overview
 This Python script schedules wafer processing tasks across two stations to minimize the total processing time. 
